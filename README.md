@@ -52,4 +52,4 @@ The objective was to minimize reliance on traditional clinical diagnostics by id
 ---
 
 ## Document
-- access the detailed [project documentation](./.pdf).
+- access the detailed [project documentation](./autism-detection.pdf).
